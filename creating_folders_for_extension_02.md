@@ -22,7 +22,11 @@ print("Files have been sorted by extension!")
 ```
 
 step 1 : Imported os library and shutil for os operations and moving files to folders
+
 step 2 : Created a folder_path variable to store the folder path which contain the different file types
+
 step 3 : Used for loop to iterate each file to move it to its extension folder
+
 step 4 : created a variable to store a new folder according to its extension type
+
 step 5 : If the folder contains a file it checks wheather its a file or not it file then it reperates the extension name (ie abc.pdf , "abc",".pdf") then check for the pdf folder if not it creates a folder named pdf and move the filr to the folder .
